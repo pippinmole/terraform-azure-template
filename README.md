@@ -1,1 +1,1 @@
-# terraform-azure-template
+# {{project_name}}
